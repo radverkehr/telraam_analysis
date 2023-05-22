@@ -1,0 +1,4 @@
+,Name,segment_id,datetime_loc,heavy,car,bike,pedestrian
+0,Grünauer Straße (Rathaus),9000004694,2023-05-02 11:00:00+02:00,18,106,35,15
+1,Bahnhofstr (Fahrradladen),9000004671,2023-05-02 11:00:00+02:00,13,27,60,74
+2,August-Bebel Allee,9000004672,2023-05-02 11:00:00+02:00,14,21,39,13
